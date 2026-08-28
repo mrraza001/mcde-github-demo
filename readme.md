@@ -1,1 +1,1 @@
-git bash demo (window recovry)
+git bash demo (window recovery)
